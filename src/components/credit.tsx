@@ -20,6 +20,9 @@ const Link = styled('a', {
 const Credits = () => {
   return (
     <Footer>
+      <Link href="https://github.com/bagussatoto/" title="Profile ❤️ Bagussatoto">
+      Profile ❤️ Bagus Budi Satoto
+      </Link>
       <Link href="https://github.com/bagussatoto/HariLibur.git" title="Github repository">
         Kontribusi
       </Link>
