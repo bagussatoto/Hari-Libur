@@ -14,7 +14,7 @@
 <!-- End -->
 
 <p align="center">
-   <img src="https://github.com/bagussatoto/HariLibur/blob/main/src/img/hasil.png?raw=true" alt="Hasil" width="500" height="500"> 
+   <img src="https://github.com/bagussatoto/HariLibur/blob/main/src/img/hasil.png?raw=true" alt="Hasil" width="1000" height="1000"> 
 
 
 <!-- Garis Lurus -->
