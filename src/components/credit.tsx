@@ -20,9 +20,6 @@ const Link = styled('a', {
 const Credits = () => {
   return (
     <Footer>
-      <Link css={{ marginRight: '.5rem' }} href="https://api-harilibur.vercel.app/" title="Link to website">
-        Sumber data
-      </Link>
       <Link href="https://github.com/bagussatoto/HariLibur.git" title="Github repository">
         Kontribusi
       </Link>
