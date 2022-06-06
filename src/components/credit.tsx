@@ -20,9 +20,10 @@ const Link = styled('a', {
 const Credits = () => {
   return (
     <Footer>
-      <Link href="https://github.com/bagussatoto/" title="Profile ❤️ Bagussatoto">
+      <Link css={{ marginRight: '.5rem' }} href="https://github.com/bagussatoto/" title="Profile">
       Profile ❤️ Bagus Budi Satoto
       </Link>
+    
       <Link href="https://github.com/bagussatoto/HariLibur.git" title="Github repository">
         Kontribusi
       </Link>
