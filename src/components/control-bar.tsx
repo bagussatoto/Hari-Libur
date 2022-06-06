@@ -30,9 +30,9 @@ const Today = styled('p', {
 const ControlBar = () => {
   return (
     <Container>
-      <Title>Daftar hari libur nasional 🇮🇩</Title>
+      <Title>Daftar Hari Libur Nasional 🇮🇩</Title>
       <Divider />
-      <Today>Hari ini: {today()}</Today>
+      <Today>Hari Ini: {today()}</Today>
     </Container>
   )
 }
