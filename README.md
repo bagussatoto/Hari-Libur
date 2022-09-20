@@ -11,7 +11,7 @@
 <!-- End -->
 
 <p align="center">
-   <img width="1000" alt="calender" src="https://user-images.githubusercontent.com/87259393/180604641-33df5772-8225-4b4a-ad0b-151ae522422a.png">
+   <img width="500" alt="calender" src="https://user-images.githubusercontent.com/87259393/191203958-f5dd2dbf-7a49-4357-87ea-8e4c0b3e120e.png">
 
 
 
